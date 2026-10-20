@@ -22,3 +22,7 @@ __pycache__/
 /examples/report_19_10.txt
 /data/
 /demo-output/
+# Hosting credentials and local metadata
+.netlify/
+.vercel/
+node_modules/
