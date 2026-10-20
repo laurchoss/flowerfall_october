@@ -1,0 +1,24 @@
+# Secrets and local state
+bot_config.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.sqlite3*
+*.lock
+*.log
+__pycache__/
+.venv/
+.DS_Store
+# Private business data and machine-specific setup
+/*_october_2026.csv
+/daily_reports_october_2026.json
+/october_sheet_baseline.json
+/flowerfall_bot.plist
+/setup.md
+/TELEGRAM_SETUP.md
+/examples/report_15_10.txt
+/examples/report_19_10.txt
+/data/
+/demo-output/
